@@ -42,3 +42,9 @@ main {
   border-color: #89d185;
   color: #89d185;
 }
+
+.tarjeta-pelicula .sinopsis {
+  font-size: 13px;
+  color: #a3a3a3;
+  margin-top: 8px;
+}
